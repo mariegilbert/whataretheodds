@@ -1,0 +1,22 @@
+{
+  "name": "whataretheodds",
+  "version": "1.0.0",
+  "description": "// whataretheodds",
+  "main": "arthmeticspec.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariegilbert/whataretheodds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariegilbert/whataretheodds/issues"
+  },
+  "homepage": "https://github.com/mariegilbert/whataretheodds#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
